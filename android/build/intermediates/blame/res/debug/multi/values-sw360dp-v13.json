@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/res/merged/debug/values-sw360dp-v13/values-sw360dp-v13.xml",
+        "outputFile": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/res/merged/debug/values-sw360dp-v13/values-sw360dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/dimens.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 171
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 231
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 279
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 341
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/navview_values.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/navview_values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 399
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/navview_values.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/navview_values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 445
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw360dp/navview_values.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw360dp/navview_values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

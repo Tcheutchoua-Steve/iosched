@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml",
+        "outputFile": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 250
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 40,
@@ -33,7 +33,7 @@
                     "endOffset": 433
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 39,
@@ -54,7 +54,7 @@
                     "endOffset": 539
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 727
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 248,
                         "startColumn": 4,
@@ -95,7 +95,7 @@
                     "endOffset": 823
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -114,7 +114,7 @@
                     "endOffset": 930
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -133,7 +133,7 @@
                     "endOffset": 1053
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -152,7 +152,7 @@
                     "endOffset": 1148
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -171,7 +171,7 @@
                     "endOffset": 1248
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -190,7 +190,7 @@
                     "endOffset": 1330
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -209,7 +209,7 @@
                     "endOffset": 1427
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -228,7 +228,7 @@
                     "endOffset": 1533
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -247,7 +247,7 @@
                     "endOffset": 1611
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -266,7 +266,7 @@
                     "endOffset": 1707
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -285,7 +285,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -304,7 +304,7 @@
                     "endOffset": 1898
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -323,7 +323,7 @@
                     "endOffset": 1995
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -342,7 +342,7 @@
                     "endOffset": 2090
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -361,7 +361,7 @@
                     "endOffset": 2188
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -380,7 +380,7 @@
                     "endOffset": 2300
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -399,7 +399,7 @@
                     "endOffset": 2394
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2625
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 253,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 2673
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -459,7 +459,7 @@
                     "endOffset": 2722
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 261,
                         "startColumn": 4,
@@ -478,7 +478,7 @@
                     "endOffset": 2760
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 264,
                         "startColumn": 4,
@@ -497,7 +497,7 @@
                     "endOffset": 2805
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 266,
                         "startColumn": 4,
@@ -517,7 +517,7 @@
                     "endOffset": 2856
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 269,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 2921
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 273,
                         "startColumn": 4,
@@ -557,7 +557,7 @@
                     "endOffset": 3028
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
@@ -576,7 +576,7 @@
                     "endOffset": 3074
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 277,
                         "startColumn": 4,
@@ -596,7 +596,7 @@
                     "endOffset": 3118
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 283,
                         "startColumn": 4,
@@ -615,7 +615,7 @@
                     "endOffset": 3162
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
@@ -635,7 +635,7 @@
                     "endOffset": 3205
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 292,
                         "startColumn": 4,
@@ -654,7 +654,7 @@
                     "endOffset": 3248
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 295,
                         "startColumn": 4,
@@ -674,7 +674,7 @@
                     "endOffset": 3491
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 114,
                         "startColumn": 5,
@@ -693,7 +693,7 @@
                     "endOffset": 3698
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 5,
@@ -712,7 +712,7 @@
                     "endOffset": 3751
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 299,
                         "startColumn": 4,
@@ -731,7 +731,7 @@
                     "endOffset": 3802
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 303,
                         "startColumn": 4,
@@ -750,7 +750,7 @@
                     "endOffset": 3853
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 307,
                         "startColumn": 37,
@@ -769,7 +769,7 @@
                     "endOffset": 3900
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 311,
                         "startColumn": 4,
@@ -788,7 +788,7 @@
                     "endOffset": 3952
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 315,
                         "startColumn": 4,
@@ -807,7 +807,7 @@
                     "endOffset": 4040
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 318,
                         "startColumn": 4,
@@ -826,7 +826,7 @@
                     "endOffset": 4133
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 321,
                         "startColumn": 4,
@@ -845,7 +845,7 @@
                     "endOffset": 4171
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 328,
                         "startColumn": 4,
@@ -864,7 +864,7 @@
                     "endOffset": 4368
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -883,7 +883,7 @@
                     "endOffset": 4421
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 324,
                         "startColumn": 4,
@@ -902,7 +902,7 @@
                     "endOffset": 4559
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -921,7 +921,7 @@
                     "endOffset": 4680
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -940,7 +940,7 @@
                     "endOffset": 4786
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -959,7 +959,7 @@
                     "endOffset": 4902
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -978,7 +978,7 @@
                     "endOffset": 5028
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -997,7 +997,7 @@
                     "endOffset": 5142
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1016,7 +1016,7 @@
                     "endOffset": 5303
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1035,7 +1035,7 @@
                     "endOffset": 5420
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1054,7 +1054,7 @@
                     "endOffset": 5564
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1073,7 +1073,7 @@
                     "endOffset": 5711
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1092,7 +1092,7 @@
                     "endOffset": 5825
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1111,7 +1111,7 @@
                     "endOffset": 5954
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1130,7 +1130,7 @@
                     "endOffset": 6067
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1149,7 +1149,7 @@
                     "endOffset": 6198
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1168,7 +1168,7 @@
                     "endOffset": 6332
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1187,7 +1187,7 @@
                     "endOffset": 6443
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -1206,7 +1206,7 @@
                     "endOffset": 6591
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1225,7 +1225,7 @@
                     "endOffset": 6733
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1244,7 +1244,7 @@
                     "endOffset": 6855
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1263,7 +1263,7 @@
                     "endOffset": 6979
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -1282,7 +1282,7 @@
                     "endOffset": 7091
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -1301,7 +1301,7 @@
                     "endOffset": 7212
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -1320,7 +1320,7 @@
                     "endOffset": 7361
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1339,7 +1339,7 @@
                     "endOffset": 7479
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -1358,7 +1358,7 @@
                     "endOffset": 7582
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -1377,7 +1377,7 @@
                     "endOffset": 7707
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1396,7 +1396,7 @@
                     "endOffset": 7822
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1415,7 +1415,7 @@
                     "endOffset": 7907
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -1434,7 +1434,7 @@
                     "endOffset": 7994
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1453,7 +1453,7 @@
                     "endOffset": 8096
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1472,7 +1472,7 @@
                     "endOffset": 8253
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/res/values-zh-rCN/common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -1491,7 +1491,7 @@
                     "endOffset": 8314
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 332,
                         "startColumn": 4,
@@ -1510,7 +1510,7 @@
                     "endOffset": 8428
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 5,
@@ -1530,7 +1530,7 @@
                     "endOffset": 8475
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 335,
                         "startColumn": 4,
@@ -1549,7 +1549,7 @@
                     "endOffset": 8525
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 338,
                         "startColumn": 4,
@@ -1568,7 +1568,7 @@
                     "endOffset": 8576
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 341,
                         "startColumn": 4,
@@ -1587,7 +1587,7 @@
                     "endOffset": 8615
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 343,
                         "startColumn": 4,
@@ -1607,7 +1607,7 @@
                     "endOffset": 8664
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 347,
                         "startColumn": 4,
@@ -1627,7 +1627,7 @@
                     "endOffset": 8724
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 349,
                         "startColumn": 29,
@@ -1647,7 +1647,7 @@
                     "endOffset": 8784
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 356,
                         "startColumn": 4,
@@ -1666,7 +1666,7 @@
                     "endOffset": 8844
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 359,
                         "startColumn": 4,
@@ -1685,7 +1685,7 @@
                     "endOffset": 8896
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 360,
                         "startColumn": 28,
@@ -1705,7 +1705,7 @@
                     "endOffset": 8959
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 365,
                         "startColumn": 4,
@@ -1724,7 +1724,7 @@
                     "endOffset": 9009
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1743,7 +1743,7 @@
                     "endOffset": 9076
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 366,
                         "startColumn": 4,
@@ -1763,7 +1763,7 @@
                     "endOffset": 9123
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 371,
                         "startColumn": 4,
@@ -1782,7 +1782,7 @@
                     "endOffset": 9183
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 375,
                         "startColumn": 4,
@@ -1801,7 +1801,7 @@
                     "endOffset": 9234
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 379,
                         "startColumn": 4,
@@ -1820,7 +1820,7 @@
                     "endOffset": 9298
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 382,
                         "startColumn": 4,
@@ -1839,7 +1839,7 @@
                     "endOffset": 9348
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 386,
                         "startColumn": 4,
@@ -1858,7 +1858,7 @@
                     "endOffset": 9400
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 389,
                         "startColumn": 4,
@@ -1877,7 +1877,7 @@
                     "endOffset": 9519
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 392,
                         "startColumn": 4,
@@ -1896,7 +1896,7 @@
                     "endOffset": 9568
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 396,
                         "startColumn": 4,
@@ -1915,7 +1915,7 @@
                     "endOffset": 9636
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 401,
                         "startColumn": 4,
@@ -1934,7 +1934,7 @@
                     "endOffset": 9685
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 404,
                         "startColumn": 4,
@@ -1953,7 +1953,7 @@
                     "endOffset": 9733
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 407,
                         "startColumn": 4,
@@ -1972,7 +1972,7 @@
                     "endOffset": 9788
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 411,
                         "startColumn": 4,
@@ -1991,7 +1991,7 @@
                     "endOffset": 9847
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 414,
                         "startColumn": 38,
@@ -2010,7 +2010,7 @@
                     "endOffset": 9898
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 417,
                         "startColumn": 4,
@@ -2029,7 +2029,7 @@
                     "endOffset": 9957
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 421,
                         "startColumn": 4,
@@ -2048,7 +2048,7 @@
                     "endOffset": 10022
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 425,
                         "startColumn": 4,
@@ -2067,7 +2067,7 @@
                     "endOffset": 10114
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 428,
                         "startColumn": 4,
@@ -2086,7 +2086,7 @@
                     "endOffset": 10162
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 432,
                         "startColumn": 4,
@@ -2105,7 +2105,7 @@
                     "endOffset": 10560
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/legal_text.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/legal_text.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -2124,7 +2124,7 @@
                     "endOffset": 10640
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 764,
                         "startColumn": 40,
@@ -2144,7 +2144,7 @@
                     "endOffset": 10720
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 766,
                         "startColumn": 4,
@@ -2164,7 +2164,7 @@
                     "endOffset": 11015
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
@@ -2183,7 +2183,7 @@
                     "endOffset": 11079
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -2203,7 +2203,7 @@
                     "endOffset": 11148
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 224,
                         "startColumn": 4,
@@ -2223,7 +2223,7 @@
                     "endOffset": 11468
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -2244,7 +2244,7 @@
                     "endOffset": 11633
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -2264,7 +2264,7 @@
                     "endOffset": 11885
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 4,
@@ -2283,7 +2283,7 @@
                     "endOffset": 12306
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -2302,7 +2302,7 @@
                     "endOffset": 12493
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -2322,7 +2322,7 @@
                     "endOffset": 12806
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -2342,7 +2342,7 @@
                     "endOffset": 12850
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 436,
                         "startColumn": 4,
@@ -2361,7 +2361,7 @@
                     "endOffset": 12898
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 768,
                         "startColumn": 4,
@@ -2381,7 +2381,7 @@
                     "endOffset": 12989
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 440,
                         "startColumn": 4,
@@ -2400,7 +2400,7 @@
                     "endOffset": 13058
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 444,
                         "startColumn": 4,
@@ -2420,7 +2420,7 @@
                     "endOffset": 13139
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 448,
                         "startColumn": 4,
@@ -2440,7 +2440,7 @@
                     "endOffset": 13178
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 454,
                         "startColumn": 4,
@@ -2459,7 +2459,7 @@
                     "endOffset": 13339
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -2478,7 +2478,7 @@
                     "endOffset": 13480
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -2497,7 +2497,7 @@
                     "endOffset": 13639
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -2516,7 +2516,7 @@
                     "endOffset": 13775
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -2535,7 +2535,7 @@
                     "endOffset": 13828
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 149,
                         "startColumn": 4,
@@ -2554,7 +2554,7 @@
                     "endOffset": 13876
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 459,
                         "startColumn": 4,
@@ -2573,7 +2573,7 @@
                     "endOffset": 13919
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 465,
                         "startColumn": 4,
@@ -2592,7 +2592,7 @@
                     "endOffset": 13962
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 468,
                         "startColumn": 4,
@@ -2611,7 +2611,7 @@
                     "endOffset": 14031
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 471,
                         "startColumn": 4,
@@ -2630,7 +2630,7 @@
                     "endOffset": 14086
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 476,
                         "startColumn": 4,
@@ -2649,7 +2649,7 @@
                     "endOffset": 14160
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 479,
                         "startColumn": 4,
@@ -2668,7 +2668,7 @@
                     "endOffset": 14226
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 488,
                         "startColumn": 4,
@@ -2687,7 +2687,7 @@
                     "endOffset": 14300
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 493,
                         "startColumn": 27,
@@ -2706,7 +2706,7 @@
                     "endOffset": 14364
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 496,
                         "startColumn": 4,
@@ -2725,7 +2725,7 @@
                     "endOffset": 14414
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 770,
                         "startColumn": 0,
@@ -2745,7 +2745,7 @@
                     "endOffset": 14463
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 152,
                         "startColumn": 4,
@@ -2764,7 +2764,7 @@
                     "endOffset": 14604
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -2783,7 +2783,7 @@
                     "endOffset": 14651
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 499,
                         "startColumn": 4,
@@ -2802,7 +2802,7 @@
                     "endOffset": 14747
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 505,
                         "startColumn": 4,
@@ -2821,7 +2821,7 @@
                     "endOffset": 14811
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -2841,7 +2841,7 @@
                     "endOffset": 14907
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 502,
                         "startColumn": 4,
@@ -2860,7 +2860,7 @@
                     "endOffset": 14969
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -2879,7 +2879,7 @@
                     "endOffset": 15042
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
@@ -2898,7 +2898,7 @@
                     "endOffset": 15094
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -2918,7 +2918,7 @@
                     "endOffset": 15148
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 508,
                         "startColumn": 4,
@@ -2937,7 +2937,7 @@
                     "endOffset": 15217
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 511,
                         "startColumn": 4,
@@ -2956,7 +2956,7 @@
                     "endOffset": 15274
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 28,
@@ -2976,7 +2976,7 @@
                     "endOffset": 15324
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 514,
                         "startColumn": 4,
@@ -2995,7 +2995,7 @@
                     "endOffset": 15384
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 517,
                         "startColumn": 4,
@@ -3014,7 +3014,7 @@
                     "endOffset": 15439
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 519,
                         "startColumn": 4,
@@ -3034,7 +3034,7 @@
                     "endOffset": 15493
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 523,
                         "startColumn": 4,
@@ -3053,7 +3053,7 @@
                     "endOffset": 15546
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 527,
                         "startColumn": 4,
@@ -3072,7 +3072,7 @@
                     "endOffset": 15606
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 35,
@@ -3092,7 +3092,7 @@
                     "endOffset": 15679
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 533,
                         "startColumn": 4,
@@ -3111,7 +3111,7 @@
                     "endOffset": 15751
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 537,
                         "startColumn": 4,
@@ -3131,7 +3131,7 @@
                     "endOffset": 15835
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -3151,7 +3151,7 @@
                     "endOffset": 15904
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 541,
                         "startColumn": 4,
@@ -3170,7 +3170,7 @@
                     "endOffset": 15962
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 543,
                         "startColumn": 27,
@@ -3190,7 +3190,7 @@
                     "endOffset": 16038
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 549,
                         "startColumn": 4,
@@ -3209,7 +3209,7 @@
                     "endOffset": 16094
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 552,
                         "startColumn": 4,
@@ -3228,7 +3228,7 @@
                     "endOffset": 16140
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 557,
                         "startColumn": 4,
@@ -3247,7 +3247,7 @@
                     "endOffset": 16181
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 561,
                         "startColumn": 0,
@@ -3267,7 +3267,7 @@
                     "endOffset": 16220
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 562,
                         "startColumn": 4,
@@ -3287,7 +3287,7 @@
                     "endOffset": 16259
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 564,
                         "startColumn": 4,
@@ -3307,7 +3307,7 @@
                     "endOffset": 16298
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 566,
                         "startColumn": 4,
@@ -3327,7 +3327,7 @@
                     "endOffset": 16337
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 568,
                         "startColumn": 4,
@@ -3347,7 +3347,7 @@
                     "endOffset": 16376
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 570,
                         "startColumn": 4,
@@ -3367,7 +3367,7 @@
                     "endOffset": 16410
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 572,
                         "startColumn": 4,
@@ -3387,7 +3387,7 @@
                     "endOffset": 16448
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 575,
                         "startColumn": 4,
@@ -3407,7 +3407,7 @@
                     "endOffset": 16511
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 578,
                         "startColumn": 4,
@@ -3427,7 +3427,7 @@
                     "endOffset": 16578
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 580,
                         "startColumn": 4,
@@ -3447,7 +3447,7 @@
                     "endOffset": 16666
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 585,
                         "startColumn": 0,
@@ -3467,7 +3467,7 @@
                     "endOffset": 16733
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 582,
                         "startColumn": 4,
@@ -3487,7 +3487,7 @@
                     "endOffset": 16830
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 586,
                         "startColumn": 0,
@@ -3507,7 +3507,7 @@
                     "endOffset": 16905
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 588,
                         "startColumn": 0,
@@ -3527,7 +3527,7 @@
                     "endOffset": 17175
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -3547,7 +3547,7 @@
                     "endOffset": 17250
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -3567,7 +3567,7 @@
                     "endOffset": 17365
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 589,
                         "startColumn": 4,
@@ -3587,7 +3587,7 @@
                     "endOffset": 17423
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 592,
                         "startColumn": 0,
@@ -3607,7 +3607,7 @@
                     "endOffset": 17515
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 593,
                         "startColumn": 4,
@@ -3627,7 +3627,7 @@
                     "endOffset": 17586
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 595,
                         "startColumn": 4,
@@ -3647,7 +3647,7 @@
                     "endOffset": 17686
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 597,
                         "startColumn": 4,
@@ -3667,7 +3667,7 @@
                     "endOffset": 17758
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 599,
                         "startColumn": 4,
@@ -3687,7 +3687,7 @@
                     "endOffset": 17852
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 601,
                         "startColumn": 4,
@@ -3707,7 +3707,7 @@
                     "endOffset": 17922
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 603,
                         "startColumn": 4,
@@ -3727,7 +3727,7 @@
                     "endOffset": 18007
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 604,
                         "startColumn": 38,
@@ -3747,7 +3747,7 @@
                     "endOffset": 18079
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 607,
                         "startColumn": 4,
@@ -3767,7 +3767,7 @@
                     "endOffset": 18396
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -3786,7 +3786,7 @@
                     "endOffset": 18444
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 609,
                         "startColumn": 4,
@@ -3806,7 +3806,7 @@
                     "endOffset": 18498
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 611,
                         "startColumn": 4,
@@ -3826,7 +3826,7 @@
                     "endOffset": 18570
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 613,
                         "startColumn": 38,
@@ -3846,7 +3846,7 @@
                     "endOffset": 18607
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 616,
                         "startColumn": 0,
@@ -3866,7 +3866,7 @@
                     "endOffset": 18672
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 617,
                         "startColumn": 4,
@@ -3887,7 +3887,7 @@
                     "endOffset": 18755
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 618,
                         "startColumn": 70,
@@ -3908,7 +3908,7 @@
                     "endOffset": 18882
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 34,
@@ -3928,7 +3928,7 @@
                     "endOffset": 18927
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 624,
                         "startColumn": 4,
@@ -3948,7 +3948,7 @@
                     "endOffset": 18982
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 627,
                         "startColumn": 0,
@@ -3968,7 +3968,7 @@
                     "endOffset": 19066
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 628,
                         "startColumn": 38,
@@ -3988,7 +3988,7 @@
                     "endOffset": 19139
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 631,
                         "startColumn": 4,
@@ -4008,7 +4008,7 @@
                     "endOffset": 19217
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 632,
                         "startColumn": 38,
@@ -4028,7 +4028,7 @@
                     "endOffset": 19275
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 635,
                         "startColumn": 4,
@@ -4048,7 +4048,7 @@
                     "endOffset": 19330
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 637,
                         "startColumn": 4,
@@ -4068,7 +4068,7 @@
                     "endOffset": 19433
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 118,
                         "startColumn": 5,
@@ -4087,7 +4087,7 @@
                     "endOffset": 19556
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -4106,7 +4106,7 @@
                     "endOffset": 19684
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 113,
@@ -4125,7 +4125,7 @@
                     "endOffset": 19795
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 5,
@@ -4144,7 +4144,7 @@
                     "endOffset": 19924
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -4163,7 +4163,7 @@
                     "endOffset": 20038
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 5,
@@ -4182,7 +4182,7 @@
                     "endOffset": 20111
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 639,
                         "startColumn": 4,
@@ -4202,7 +4202,7 @@
                     "endOffset": 20183
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 641,
                         "startColumn": 4,
@@ -4222,7 +4222,7 @@
                     "endOffset": 20298
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 124,
                         "startColumn": 5,
@@ -4241,7 +4241,7 @@
                     "endOffset": 20519
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 126,
                         "startColumn": 5,
@@ -4260,7 +4260,7 @@
                     "endOffset": 20644
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 5,
@@ -4279,7 +4279,7 @@
                     "endOffset": 20762
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 5,
@@ -4298,7 +4298,7 @@
                     "endOffset": 20873
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 41,
@@ -4317,7 +4317,7 @@
                     "endOffset": 20942
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 643,
                         "startColumn": 4,
@@ -4337,7 +4337,7 @@
                     "endOffset": 21011
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 645,
                         "startColumn": 4,
@@ -4357,7 +4357,7 @@
                     "endOffset": 21072
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 647,
                         "startColumn": 0,
@@ -4377,7 +4377,7 @@
                     "endOffset": 21185
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 134,
                         "startColumn": 47,
@@ -4396,7 +4396,7 @@
                     "endOffset": 21235
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 648,
                         "startColumn": 0,
@@ -4416,7 +4416,7 @@
                     "endOffset": 21313
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 649,
                         "startColumn": 40,
@@ -4436,7 +4436,7 @@
                     "endOffset": 21370
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 651,
                         "startColumn": 4,
@@ -4456,7 +4456,7 @@
                     "endOffset": 21425
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 653,
                         "startColumn": 4,
@@ -4476,7 +4476,7 @@
                     "endOffset": 21477
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 655,
                         "startColumn": 4,
@@ -4496,7 +4496,7 @@
                     "endOffset": 21526
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 657,
                         "startColumn": 4,
@@ -4516,7 +4516,7 @@
                     "endOffset": 21585
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 659,
                         "startColumn": 4,
@@ -4536,7 +4536,7 @@
                     "endOffset": 21630
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 661,
                         "startColumn": 0,
@@ -4556,7 +4556,7 @@
                     "endOffset": 21702
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 661,
                         "startColumn": 38,
@@ -4576,7 +4576,7 @@
                     "endOffset": 21756
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 5,
@@ -4595,7 +4595,7 @@
                     "endOffset": 21815
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 664,
                         "startColumn": 0,
@@ -4615,7 +4615,7 @@
                     "endOffset": 21874
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 665,
                         "startColumn": 40,
@@ -4635,7 +4635,7 @@
                     "endOffset": 21962
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 667,
                         "startColumn": 4,
@@ -4655,7 +4655,7 @@
                     "endOffset": 22047
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 669,
                         "startColumn": 0,
@@ -4675,7 +4675,7 @@
                     "endOffset": 22102
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 671,
                         "startColumn": 0,
@@ -4695,7 +4695,7 @@
                     "endOffset": 22166
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 672,
                         "startColumn": 0,
@@ -4715,7 +4715,7 @@
                     "endOffset": 22229
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 674,
                         "startColumn": 0,
@@ -4735,7 +4735,7 @@
                     "endOffset": 22332
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 675,
                         "startColumn": 4,
@@ -4755,7 +4755,7 @@
                     "endOffset": 22375
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 678,
                         "startColumn": 0,
@@ -4775,7 +4775,7 @@
                     "endOffset": 22526
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -4794,7 +4794,7 @@
                     "endOffset": 22572
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 4,
@@ -4813,7 +4813,7 @@
                     "endOffset": 22624
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 679,
                         "startColumn": 4,
@@ -4833,7 +4833,7 @@
                     "endOffset": 22673
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 681,
                         "startColumn": 4,
@@ -4854,7 +4854,7 @@
                     "endOffset": 22786
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 683,
                         "startColumn": 4,
@@ -4875,7 +4875,7 @@
                     "endOffset": 22875
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 687,
                         "startColumn": 4,
@@ -4895,7 +4895,7 @@
                     "endOffset": 22920
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 143,
                         "startColumn": 5,
@@ -4914,7 +4914,7 @@
                     "endOffset": 22972
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 5,
@@ -4933,7 +4933,7 @@
                     "endOffset": 23017
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 691,
                         "startColumn": 4,
@@ -4954,7 +4954,7 @@
                     "endOffset": 23181
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 693,
                         "startColumn": 4,
@@ -4975,7 +4975,7 @@
                     "endOffset": 23330
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 699,
                         "startColumn": 4,
@@ -4995,7 +4995,7 @@
                     "endOffset": 23416
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 702,
                         "startColumn": 38,
@@ -5015,7 +5015,7 @@
                     "endOffset": 23609
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -5034,7 +5034,7 @@
                     "endOffset": 23802
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -5053,7 +5053,7 @@
                     "endOffset": 24000
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -5072,7 +5072,7 @@
                     "endOffset": 24060
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 706,
                         "startColumn": 0,
@@ -5092,7 +5092,7 @@
                     "endOffset": 24242
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -5111,7 +5111,7 @@
                     "endOffset": 24424
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -5130,7 +5130,7 @@
                     "endOffset": 24614
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -5149,7 +5149,7 @@
                     "endOffset": 24807
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -5168,7 +5168,7 @@
                     "endOffset": 25005
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -5188,7 +5188,7 @@
                     "endOffset": 25112
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 707,
                         "startColumn": 0,
@@ -5208,7 +5208,7 @@
                     "endOffset": 25311
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -5227,7 +5227,7 @@
                     "endOffset": 25412
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-zh-rCN/values-zh-rCN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -5246,7 +5246,7 @@
                     "endOffset": 25537
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 108,
@@ -5265,7 +5265,7 @@
                     "endOffset": 25632
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 5,
@@ -5284,7 +5284,7 @@
                     "endOffset": 25741
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 5,
@@ -5303,7 +5303,7 @@
                     "endOffset": 25859
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 100,
                         "startColumn": 4,
@@ -5322,7 +5322,7 @@
                     "endOffset": 25975
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 5,
@@ -5341,7 +5341,7 @@
                     "endOffset": 26082
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 5,
@@ -5360,7 +5360,7 @@
                     "endOffset": 26202
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 5,
@@ -5379,7 +5379,7 @@
                     "endOffset": 26240
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 711,
                         "startColumn": 4,
@@ -5399,7 +5399,7 @@
                     "endOffset": 26342
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 713,
                         "startColumn": 4,
@@ -5419,7 +5419,7 @@
                     "endOffset": 26420
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 716,
                         "startColumn": 0,
@@ -5439,7 +5439,7 @@
                     "endOffset": 26482
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 718,
                         "startColumn": 0,
@@ -5459,7 +5459,7 @@
                     "endOffset": 26551
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 719,
                         "startColumn": 0,
@@ -5479,7 +5479,7 @@
                     "endOffset": 26654
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 720,
                         "startColumn": 4,
@@ -5499,7 +5499,7 @@
                     "endOffset": 26741
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 723,
                         "startColumn": 0,
@@ -5519,7 +5519,7 @@
                     "endOffset": 26784
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 725,
                         "startColumn": 0,
@@ -5539,7 +5539,7 @@
                     "endOffset": 26841
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -5558,7 +5558,7 @@
                     "endOffset": 26886
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 726,
                         "startColumn": 4,
@@ -5578,7 +5578,7 @@
                     "endOffset": 26947
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -5597,7 +5597,7 @@
                     "endOffset": 26988
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 728,
                         "startColumn": 40,
@@ -5616,7 +5616,7 @@
                     "endOffset": 27039
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 730,
                         "startColumn": 4,
@@ -5636,7 +5636,7 @@
                     "endOffset": 27091
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 732,
                         "startColumn": 40,
@@ -5656,7 +5656,7 @@
                     "endOffset": 27145
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 734,
                         "startColumn": 4,
@@ -5676,7 +5676,7 @@
                     "endOffset": 27189
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 736,
                         "startColumn": 4,
@@ -5696,7 +5696,7 @@
                     "endOffset": 27243
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 738,
                         "startColumn": 4,
@@ -5716,7 +5716,7 @@
                     "endOffset": 27299
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 740,
                         "startColumn": 0,
@@ -5736,7 +5736,7 @@
                     "endOffset": 27345
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 742,
                         "startColumn": 0,
@@ -5756,7 +5756,7 @@
                     "endOffset": 27393
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 743,
                         "startColumn": 4,
@@ -5776,7 +5776,7 @@
                     "endOffset": 27492
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 42,
@@ -5796,7 +5796,7 @@
                     "endOffset": 27543
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -5815,7 +5815,7 @@
                     "endOffset": 27601
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -5835,7 +5835,7 @@
                     "endOffset": 27749
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -5856,7 +5856,7 @@
                     "endOffset": 27850
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -5876,7 +5876,7 @@
                     "endOffset": 27908
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 212,
                         "startColumn": 4,
@@ -5896,7 +5896,7 @@
                     "endOffset": 27946
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 746,
                         "startColumn": 4,
@@ -5916,7 +5916,7 @@
                     "endOffset": 27983
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 748,
                         "startColumn": 4,
@@ -5936,7 +5936,7 @@
                     "endOffset": 28290
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 4,
@@ -5955,7 +5955,7 @@
                     "endOffset": 28340
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 750,
                         "startColumn": 4,
@@ -5975,7 +5975,7 @@
                     "endOffset": 28386
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 753,
                         "startColumn": 0,
@@ -5995,7 +5995,7 @@
                     "endOffset": 28457
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 482,
                         "startColumn": 4,
@@ -6014,7 +6014,7 @@
                     "endOffset": 28501
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 754,
                         "startColumn": 38,
@@ -6034,7 +6034,7 @@
                     "endOffset": 28634
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -6053,7 +6053,7 @@
                     "endOffset": 28686
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -6073,7 +6073,7 @@
                     "endOffset": 28759
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -6093,7 +6093,7 @@
                     "endOffset": 29104
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/conduct_text.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/conduct_text.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -6112,7 +6112,7 @@
                     "endOffset": 29164
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -6131,7 +6131,7 @@
                     "endOffset": 29286
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -6150,7 +6150,7 @@
                     "endOffset": 29413
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -6170,7 +6170,7 @@
                     "endOffset": 29545
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -6189,7 +6189,7 @@
                     "endOffset": 29661
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -6209,7 +6209,7 @@
                     "endOffset": 29848
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -6228,7 +6228,7 @@
                     "endOffset": 29923
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 757,
                         "startColumn": 40,
@@ -6248,7 +6248,7 @@
                     "endOffset": 29989
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 759,
                         "startColumn": 0,
@@ -6268,7 +6268,7 @@
                     "endOffset": 30054
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 760,
                         "startColumn": 4,
@@ -6288,7 +6288,7 @@
                     "endOffset": 30124
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 762,
                         "startColumn": 4,
@@ -6308,7 +6308,7 @@
                     "endOffset": 30180
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-zh-rCN/strings.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-zh-rCN/strings.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 39,

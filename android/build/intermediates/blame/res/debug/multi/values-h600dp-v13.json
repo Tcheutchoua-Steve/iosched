@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/res/merged/debug/values-h600dp-v13/values-h600dp-v13.xml",
+        "outputFile": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/res/merged/debug/values-h600dp-v13/values-h600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-h600dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-h600dp/dimens.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/res/merged/debug/values-sw600dp-v21/values-sw600dp-v21.xml",
+        "outputFile": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/res/merged/debug/values-sw600dp-v21/values-sw600dp-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 344
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-sw600dp-v21/styles.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-sw600dp-v21/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "outputFile": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-w720dp/values-w720dp.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-w720dp/values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 176
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-w720dp/bools.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-w720dp/bools.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 225
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-w720dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-w720dp/dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 272
                 },
                 "from": {
-                    "file": "/root/Desktop/AndroidLab/iosched/android/src/main/res/values-w720dp/dimens.xml",
+                    "file": "/home/tcheutchoua/Documents/Dev/iosched/android/src/main/res/values-w720dp/dimens.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
